@@ -1,0 +1,51 @@
+DS001 March 12, 2021 www.xilinx.com
+Product Specification 1
+ 2000-2021 Xilinx, Inc. All rights reserved. XILINX, the Xilinx logo, the Brand Window, and other designated brands included herein are trademarks of Xilinx, Inc. All other
+trademarks are the property of their respective owners.
+This document includes all four modules of the Spartan-II FPGA data sheet.
+Module 1:
+Introduction and Ordering Information
+DS001-1 (v2.9) March 12, 2021
+ Introduction
+ Features
+ General Overview
+ Product Availability
+ User I/O Chart
+ Ordering Information
+Module 2:
+Functional Description
+DS001-2 (v2.9) March 12, 2021
+ Architectural Description
+- Spartan-II Array
+- Input/Output Block
+- Configurable Logic Block
+- Block RAM
+- Clock Distribution: Delay-Locked Loop
+- Boundary Scan
+ Development System
+ Configuration
+- Configuration Timing
+ Design Considerations
+Module 3:
+DC and Switching Characteristics
+DS001-3 (v2.9) March 12, 2021
+ DC Specifications
+- Absolute Maximum Ratings
+- Recommended Operating Conditions
+- DC Characteristics
+- Power-On Requirements
+- DC Input and Output Levels
+ Switching Characteristics
+- Pin-to-Pin Parameters
+- IOB Switching Characteristics
+- Clock Distribution Characteristics
+- DLL Timing Parameters
+- CLB Switching Characteristics
+- Block RAM Switching Characteristics
+- TBUF Switching Characteristics
+- JTAG Switching Characteristics
+Module 4:
+Pinout Tables
+DS001-4 (v2.9) March 12, 2021
+ Pin Definitions
+ 

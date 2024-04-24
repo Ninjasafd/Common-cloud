@@ -1,0 +1,23 @@
+Syllabus
+Math 215 (Introduction to Linear Algebra)
+University of Rhode Island, Spring 2012
+Contact Information:
+Instructor: Dr. Glenn Faubert Contact via SAKAI Messages Office: Lippitt Hall 202A
+Email: gfaubert@math.uri.edu
+SAKAI messages greatly preferred. Office Hours: See SAKAI
+Course Description/Learning Outcomes:
+This is an undergraduate course in linear algebra for students of engineering, science, and mathematics. Linear algebra is the
+study of linear systems of equations, vector spaces, and linear transformations. Solving systems of linear equations is a basic
+tool of many mathematical procedures used for solving problems in science and engineering. In this class we will
+concentrate on the mathematical theory and methods of linear algebra. The student will become competent in solving linear
+equations, performing matrix algebra, calculating determinants, and finding eigenvalues and eigenvectors. On the
+theoretical side, the student will come to understand a matrix as a linear transformations relative to a basis of a vector space.
+The student will become comfortable with the vector space Rn and be exposed to vector spaces more generally by
+working on examples with polynomials in Pn and continuous functions in C [ a ,b ]. The definite integral from
+calculus will be revisited and recognized as an inner product. The student will understand the concept of orthogonality of
+vectors and its use in projecting vectors into subspaces and decomposing vectors into components. Finally the student will
+learn how to solve over constrained systems using the method of least squares. The engineering and science student will
+have a solid base of understanding in elementary linear algebra as required for further undergraduate work in those fields
+and the mathematics student will be prepared for a more formal and rigorous linear algebra course.
+Prerequisite for this course is one semester of college calculus, (At URI: MTH131 or MTH141) however the mathematical
+maturity obtained from two semesters of calculus would serve you well and is recommended.

@@ -1,0 +1,42 @@
+{
+    "assembly_ai": "example_key",
+    "clarifai": {
+        "api-key": "example_key",
+        "model-id": "bf4f9876f03c6b93af4f7a2220e08392",
+        "user-id": "user-id",
+        "app-id": "appi-d"
+    },
+    "dandelion": "example_key",
+    "deepgram": "example_key",
+    "detectlanguage" : "example_key",
+    "google": "example_file_path",
+    "happi": "example_key",
+    "ibm": {
+        "text-to-speech": "example_key",
+        "speech-to-text": "example_key",
+        "sentiment": "example_key",
+        "translate": "example_key",
+        "categorization": "example_key",
+        "language": "example_key"
+    },
+    "intellexer": "example_key",
+    "komprehend": "example_key",
+    "lettria": "example_key",
+    "meaning_cloud": "example_key",
+    "microsoft": {
+        "face-detection": "example_key",
+        "sentiment": "example_key",
+        "language": "example_key",
+        "translate": "example_key",
+        "ocr": "example_key",
+        "text-to-speech": "example_key", 
+        "speech-to-text" : "example_key",
+        "object-detection": "example_key"
+    },
+    "moderate_content": "example_key",
+    "monkeylearn": "example_key", 
+    "ocr_space": "example_key",
+    "plate_recognizer": "example_key",
+    "uclassify": "example_key",
+    "yonder" : "example_key"
+}
